@@ -1,0 +1,1 @@
+let info = "Bruna Yumi Nagahashi, Mogi das Cruzes-SP"
